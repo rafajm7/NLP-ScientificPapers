@@ -14,4 +14,4 @@ El objetivo de este repositorio consiste en la extracción y análisis de docume
 
 5. Una vez ya hemos procesado el corpus, podemos hacer uso de otras librerías para hacer un análisis más detallado del mismo. En concreto, *Gensim* se puede usar para realizar una extracción no supervisada de tópicos existentes en el corpus extraído, así como para su posterior visualización. Otra medida que hemos realizado es la indexación de los documentos recuperados para poder realizar rápidamente búsquedas sobre los mismos.
 
-Este proyecto se presenta en formato de Jupyter Notebook con explicaciones detalladas, adjuntando también un fichero .html donde podemos ver el resultado de la ejecución de cada celda.
+Este proyecto se presenta en formato de Jupyter Notebook con explicaciones detalladas. Es necesario instalar los paquetes que se indican al comienzo del mismo.
